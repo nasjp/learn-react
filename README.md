@@ -3,7 +3,7 @@
 ## If you start new chapter
 
 ```sh
-$ npx npx create-react-app {chapter name} --typescript
+$ npx create-react-app {chapter name} --typescript
 $ cd {chapter name}
 $ yarn add serialize-javascript
 $ yarn install
